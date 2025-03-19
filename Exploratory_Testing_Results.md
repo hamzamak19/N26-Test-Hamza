@@ -72,7 +72,7 @@ Transfer cannot be performed from the **Accounts** screen, but it works from the
 ### **Severity:** Major  
   
 
-![Bug Screenshot](images/monefy_bug_1.png)  
+![And_B](assets/And_B.jpg)  
 
 ---
 
@@ -96,7 +96,7 @@ Transaction order rearranges unexpectedly, and sometimes the transaction lines a
 ### **Severity:** Low  
   
 
-![Bug Screenshot](images/monefy_bug_2.png)  
+![AI_Bug1](assets/AI_Bug1.jpg)  
 
 ---
 
@@ -120,7 +120,7 @@ Restoring the backup shows an error like **"0 days ago"**, preventing successful
 ### **Severity:** Critical  
   
 
-![Bug Screenshot](images/monefy_bug_3.png)  
+![Backup_B](assets/Backup_B.jpg)  
 
 ---
 
@@ -166,7 +166,7 @@ The transfer is not displayed properly in the beneficiary and host accounts, lea
 ### **Severity:** Major  
   
 
-![Bug Screenshot](images/monefy_bug_5.png)  
+
 
 ---
 
@@ -204,5 +204,5 @@ The transfer is not displayed properly in the beneficiary and host accounts, lea
 | Registration of user is not present which may cause inconsistent data or data loss | Potential data inconsistency or loss, leading to user frustration | Implement user registration and ensure data synchronization and storage |  
 | Lack of passcode or password, making the app vulnerable to hacking    | Risk of unauthorized access to sensitive financial data | Add passcode or password functionality to secure the app data |  
 | Financial calculations may lose precision due to 2 decimal point limitations | Incorrect calculations leading to financial discrepancies | Implement unit testing for financial calculations to ensure accuracy |  
-| UI glitches on different mobile sizes                                     | Poor user experience, causing app dissatisfaction | Conduct responsive design testing and fix UI issues across various devices |  
+| UI difference on different mobiles (Android/iOS)                                     | Poor user experience, causing app dissatisfaction | Conduct responsive design testing and fix UI issues across various devices |  
 ---
